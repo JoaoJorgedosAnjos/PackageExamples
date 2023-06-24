@@ -1,4 +1,4 @@
-package com.mastersoft.clinical;
+package com.mastersoft.clinical.model;
 // Nome da empresa master soft
 //Sistema de clinica
 
